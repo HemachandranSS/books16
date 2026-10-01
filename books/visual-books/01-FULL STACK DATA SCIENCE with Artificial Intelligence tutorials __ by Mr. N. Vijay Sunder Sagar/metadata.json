@@ -1,0 +1,287 @@
+{
+  "total_duration": 2801.8230000000003,
+  "chunks": [
+    {
+      "file": "1.mp4",
+      "index": 1,
+      "duration": 65.92,
+      "start_time": 0.0
+    },
+    {
+      "file": "2.mp4",
+      "index": 2,
+      "duration": 60.0,
+      "start_time": 65.92
+    },
+    {
+      "file": "3.mp4",
+      "index": 3,
+      "duration": 60.0,
+      "start_time": 125.92
+    },
+    {
+      "file": "4.mp4",
+      "index": 4,
+      "duration": 60.0,
+      "start_time": 185.92000000000002
+    },
+    {
+      "file": "5.mp4",
+      "index": 5,
+      "duration": 60.0,
+      "start_time": 245.92000000000002
+    },
+    {
+      "file": "6.mp4",
+      "index": 6,
+      "duration": 60.0,
+      "start_time": 305.92
+    },
+    {
+      "file": "7.mp4",
+      "index": 7,
+      "duration": 60.0,
+      "start_time": 365.92
+    },
+    {
+      "file": "8.mp4",
+      "index": 8,
+      "duration": 60.0,
+      "start_time": 425.92
+    },
+    {
+      "file": "9.mp4",
+      "index": 9,
+      "duration": 60.0,
+      "start_time": 485.92
+    },
+    {
+      "file": "10.mp4",
+      "index": 10,
+      "duration": 60.0,
+      "start_time": 545.9200000000001
+    },
+    {
+      "file": "11.mp4",
+      "index": 11,
+      "duration": 60.0,
+      "start_time": 605.9200000000001
+    },
+    {
+      "file": "12.mp4",
+      "index": 12,
+      "duration": 54.64,
+      "start_time": 665.9200000000001
+    },
+    {
+      "file": "13.mp4",
+      "index": 13,
+      "duration": 59.84,
+      "start_time": 720.5600000000001
+    },
+    {
+      "file": "14.mp4",
+      "index": 14,
+      "duration": 60.0,
+      "start_time": 780.4000000000001
+    },
+    {
+      "file": "15.mp4",
+      "index": 15,
+      "duration": 60.0,
+      "start_time": 840.4000000000001
+    },
+    {
+      "file": "16.mp4",
+      "index": 16,
+      "duration": 68.04,
+      "start_time": 900.4000000000001
+    },
+    {
+      "file": "17.mp4",
+      "index": 17,
+      "duration": 60.0,
+      "start_time": 968.44
+    },
+    {
+      "file": "18.mp4",
+      "index": 18,
+      "duration": 55.28,
+      "start_time": 1028.44
+    },
+    {
+      "file": "19.mp4",
+      "index": 19,
+      "duration": 60.0,
+      "start_time": 1083.72
+    },
+    {
+      "file": "20.mp4",
+      "index": 20,
+      "duration": 57.52,
+      "start_time": 1143.72
+    },
+    {
+      "file": "21.mp4",
+      "index": 21,
+      "duration": 67.56,
+      "start_time": 1201.24
+    },
+    {
+      "file": "22.mp4",
+      "index": 22,
+      "duration": 60.0,
+      "start_time": 1268.8
+    },
+    {
+      "file": "23.mp4",
+      "index": 23,
+      "duration": 57.12,
+      "start_time": 1328.8
+    },
+    {
+      "file": "24.mp4",
+      "index": 24,
+      "duration": 60.0,
+      "start_time": 1385.9199999999998
+    },
+    {
+      "file": "25.mp4",
+      "index": 25,
+      "duration": 60.0,
+      "start_time": 1445.9199999999998
+    },
+    {
+      "file": "26.mp4",
+      "index": 26,
+      "duration": 58.16,
+      "start_time": 1505.9199999999998
+    },
+    {
+      "file": "27.mp4",
+      "index": 27,
+      "duration": 59.16,
+      "start_time": 1564.08
+    },
+    {
+      "file": "28.mp4",
+      "index": 28,
+      "duration": 58.64,
+      "start_time": 1623.24
+    },
+    {
+      "file": "29.mp4",
+      "index": 29,
+      "duration": 65.52,
+      "start_time": 1681.88
+    },
+    {
+      "file": "30.mp4",
+      "index": 30,
+      "duration": 54.84,
+      "start_time": 1747.4
+    },
+    {
+      "file": "31.mp4",
+      "index": 31,
+      "duration": 58.0,
+      "start_time": 1802.24
+    },
+    {
+      "file": "32.mp4",
+      "index": 32,
+      "duration": 66.56,
+      "start_time": 1860.24
+    },
+    {
+      "file": "33.mp4",
+      "index": 33,
+      "duration": 60.0,
+      "start_time": 1926.8
+    },
+    {
+      "file": "34.mp4",
+      "index": 34,
+      "duration": 60.0,
+      "start_time": 1986.8
+    },
+    {
+      "file": "35.mp4",
+      "index": 35,
+      "duration": 60.0,
+      "start_time": 2046.8
+    },
+    {
+      "file": "36.mp4",
+      "index": 36,
+      "duration": 60.0,
+      "start_time": 2106.8
+    },
+    {
+      "file": "37.mp4",
+      "index": 37,
+      "duration": 60.0,
+      "start_time": 2166.8
+    },
+    {
+      "file": "38.mp4",
+      "index": 38,
+      "duration": 60.0,
+      "start_time": 2226.8
+    },
+    {
+      "file": "39.mp4",
+      "index": 39,
+      "duration": 60.0,
+      "start_time": 2286.8
+    },
+    {
+      "file": "40.mp4",
+      "index": 40,
+      "duration": 60.0,
+      "start_time": 2346.8
+    },
+    {
+      "file": "41.mp4",
+      "index": 41,
+      "duration": 60.0,
+      "start_time": 2406.8
+    },
+    {
+      "file": "42.mp4",
+      "index": 42,
+      "duration": 60.0,
+      "start_time": 2466.8
+    },
+    {
+      "file": "43.mp4",
+      "index": 43,
+      "duration": 60.0,
+      "start_time": 2526.8
+    },
+    {
+      "file": "44.mp4",
+      "index": 44,
+      "duration": 60.0,
+      "start_time": 2586.8
+    },
+    {
+      "file": "45.mp4",
+      "index": 45,
+      "duration": 60.0,
+      "start_time": 2646.8
+    },
+    {
+      "file": "46.mp4",
+      "index": 46,
+      "duration": 60.0,
+      "start_time": 2706.8
+    },
+    {
+      "file": "47.mp4",
+      "index": 47,
+      "duration": 35.023,
+      "start_time": 2766.8
+    }
+  ]
+}
